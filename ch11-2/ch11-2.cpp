@@ -44,7 +44,7 @@ public:
 
 int main()
 {
-	RV rv(100000, 300);
+	RV rv(11, 300);
 	rv.display();
 	return 0;
 }
